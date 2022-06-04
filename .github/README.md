@@ -5,7 +5,7 @@
 [![CROKTOL BOT](https://telegra.ph/file/1e866e952a6d9e6238d2d.jpg)](https://github.com/Kashu-op/CROKTOLBot)
 
 <h6 align="center">
-  <b>⭐‌ TELEGRAM'S GROUP MANAGEMENT BOT OF AYRA MADE BY Mr 🇿 𝐢𝐝𝐚𝐧 (@Zidan313ali) ⭐‌</b>
+  <b>⭐‌ TELEGRAM'S GROUP MANAGEMENT BOT OF CROKTOL MADE BY Mr 🇿 𝐢𝐝𝐚𝐧 (@Zidan313ali) ⭐‌</b>
 </h6>
 
 ---------
